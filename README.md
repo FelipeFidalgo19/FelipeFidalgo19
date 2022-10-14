@@ -22,8 +22,6 @@
 </div>
 <br />
 
-
-<div style="font-size: 15px">
 <style>
     p:hover{
         color:#e00;
@@ -32,5 +30,6 @@
     }
 </style>
 
-<p id="texto">te</p>
+<div style="font-size: 15px">
+    <p id="texto">te</p>
 </div>
