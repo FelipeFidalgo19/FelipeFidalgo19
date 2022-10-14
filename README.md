@@ -22,8 +22,6 @@
 </div>
 <br />
 
-## Acredito que juntos e com muita tecnologia e pensando no futuro, construiremos um mundo mais justo
-
 <div style="display:flex; justify-content: space-between;" >
 <br>
    <img style="width:200px" alt="word" src="https://i.pinimg.com/originals/44/fd/4d/44fd4de0592b4358507aaf900e910911.gif">
