@@ -1,15 +1,8 @@
 ### Saldações! Eu sou o Felipe Fidalgo ✌
 
-
-<div>
-    <a href="'https://felipefidalgoportifolio.herokuapp.com/" >
-    <img style="width: 25px;border-radius: 2px;cursor:pointer" alt="javascript" src="https://media-exp1.licdn.com/dms/image/D4E03AQHDX1SNkpfCzw/profile-displayphoto-shrink_200_200/0/1665700525033?e=1671062400&v=beta&t=XAhOZZcMSW5sP2rbRwBICmaBEUrkTMEMUPbQVzMplM8" >
-    </a>
-</div>
-
-[![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]('felipefidalgo@gmail.com')
+[![Site](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]('https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox')
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/felipe-fidalgo-04b622128/')
-[![site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]('https://felipefidalgoportifolio.herokuapp.com/')
+[![site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]('https://felipefidalgoportifolio.herokuapp.com/')
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeFidalgo19&show_icons=true&theme=dark)
 
@@ -28,5 +21,18 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br />
-
-## Um pouco de tecnologia...
+<style>
+    p:hover{
+        color:#e00;
+        transition: 0.3s;
+        cursor: pointer;
+    }
+</style>
+<script>
+    document.querySelector('texto').addEventListener('click',() => {
+        window.alert('teste');
+    })
+</script>
+<div style="font-size: 15px">
+    <p id="texto">te</p>
+</div>
