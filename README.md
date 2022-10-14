@@ -21,6 +21,7 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br />
+
 <style>
     p:hover{
         color:#e00;
@@ -28,11 +29,13 @@
         cursor: pointer;
     }
 </style>
+
 <script>
     document.querySelector('texto').addEventListener('click',() => {
         window.alert('teste');
     })
 </script>
+
 <div style="font-size: 15px">
     <p id="texto">te</p>
 </div>
