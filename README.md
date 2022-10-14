@@ -22,14 +22,11 @@
 </div>
 <br />
 
-<style>
-    p:hover{
-        color:#e00;
-        transition: 0.3s;
-        cursor: pointer;
-    }
-</style>
+## Acredito que juntos e com muita tecnologia e pensando no futuro, construiremos um mundo mais justo
 
-<div style="font-size: 15px">
-    <p id="texto">te</p>
+<div style="display:flex; justify-content: space-between;" >
+<br>
+   <img style="width:200px" alt="word" src="https://i.pinimg.com/originals/44/fd/4d/44fd4de0592b4358507aaf900e910911.gif">
+   <img style="width:200px" alt="word" src="https://i.pinimg.com/originals/c7/38/51/c73851e02f36e9429c8b0c4e91dd6653.gif">
 </div>
+
