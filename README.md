@@ -32,10 +32,5 @@
     }
 </style>
 
-<script>
-    document.querySelector('texto').addEventListener('click',() => {
-        window.alert('teste');
-    })
-</script>
 <p id="texto">te</p>
 </div>
