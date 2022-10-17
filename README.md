@@ -22,7 +22,7 @@
 </div>
 <br />
 
-## Acredito que juntos e com muita tecnologia e pensando no futuro, construiremos um mundo mais justo e prospero
+## Acredito que juntos e com muita tecnologia e pensando no futuro, construiremos um mundo mais justo e próspero
 
     
 <div style="display:flex; justify-content: space-between;" >
