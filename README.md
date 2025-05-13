@@ -21,9 +21,6 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br />
-
-## Acredito que juntos e com tecnologia sempre pensando no futuro, construiremos um mundo mais justo e próspero! ✅
-
     
 <div style="display:flex; justify-content: space-between;" >
 <br>
