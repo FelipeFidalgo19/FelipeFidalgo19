@@ -22,9 +22,5 @@
 </div>
 <br />
     
-<div style="display:flex; justify-content: space-between;" >
-<br>
-   <img style="width:200px" alt="word" src="https://i.pinimg.com/originals/44/fd/4d/44fd4de0592b4358507aaf900e910911.gif">
-   <img style="width:200px" alt="word" src="https://i.pinimg.com/originals/c7/38/51/c73851e02f36e9429c8b0c4e91dd6653.gif">
-</div>
+>
 
